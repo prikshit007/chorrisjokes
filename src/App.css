@@ -21,7 +21,8 @@ ul{
 .text p{
   justify-content: center;
   background-color: #2196F3;
-   width: 30%;
+   max-width: 30%;
+   max-height:30%;
    margin: auto;
   padding: 1%;
 
