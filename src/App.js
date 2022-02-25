@@ -50,7 +50,7 @@ function App() {
       
       <div className="text"> <p>{categoryValue}</p></div>
    
-      <button className='new' onClick={()=>fetchCategory(selectedCategoryName)}>New Joke</button>
+      <button className='btn btn-primary  new' onClick={()=>fetchCategory(selectedCategoryName)}>New Joke</button>
       </div>
      
  
